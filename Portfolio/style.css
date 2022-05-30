@@ -305,6 +305,17 @@ Tutorial: https://youtu.be/_sgF8I-Q1Gs */
    text-align: center;
 }
 
+.btn.btn-social-icon{
+   width: 50px;
+   height: 50px;
+   padding: 0;
+}
+
+.btn.btn-rounded {
+   border-radius: 20px;
+}
+
+
 
 /************************************************************************/
 /* ⚠️ FEATURED.HTML ------ DIFFERENT PAGE. ⚠️ */ 
@@ -327,7 +338,7 @@ Tutorial: https://youtu.be/_sgF8I-Q1Gs */
    text-align: center;
 }
 .carousel-item{
-   border: 20px solid #BDCBA4;
+   border: 10px solid #BDCBA4;
    border-radius: 3px;
  }
  .carousel-caption
@@ -337,10 +348,6 @@ Tutorial: https://youtu.be/_sgF8I-Q1Gs */
     background-color: #4548515f;
     border-radius: 10px;
  }
-
-
-
-
 
 
 /************************************************************************/
